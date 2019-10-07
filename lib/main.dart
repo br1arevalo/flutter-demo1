@@ -5,7 +5,5 @@ import 'package:flutter/cupertino.dart';
 void main() {
    
   runApp();
-applyBoxFit(fit, inputSize, outputSize)
-
 
 }
